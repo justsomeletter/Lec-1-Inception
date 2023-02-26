@@ -4,3 +4,8 @@
 
 Emmet is a free plug-in availabe in various editors that helps to write redundant and trivial HTML & CSS code with shorthands expression.
 Ex - write html and press tab it will create an html boilerplate
+
+## 2.Difference between Library and framework?
+
+We can say that library implements a particular function. Ex- jQuery, React.You can control the flow of your application here
+Whereas a framework is a collections of libraries. Framework decides the flow of your apllication. Ex- Node JS,Spring
