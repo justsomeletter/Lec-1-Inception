@@ -12,8 +12,8 @@ Whereas a framework is a collections of libraries. Framework decides the flow of
 
 ## 3.What is CDN? Why Do we use it?
 
-It stands for Content Delivery Network, it's basically a service that accelerates internet content delivery. A good short (video)[https://youtu.be/Bsq5cKkS33I]by IBM. Main benefit it makes website faster. Servers are not all around the world but users are. So how to facilitate it. It reduces the distance between the content providing server and the user by caching a local copy of the static data. Why static content? Coz it doesn't change very frequently.
-Another Good Video by (ByteByteGo)[https://youtu.be/RI9np1LWzqw].
+It stands for Content Delivery Network, it's basically a service that accelerates internet content delivery. A good short [video](https://youtu.be/Bsq5cKkS33I)by IBM. Main benefit it makes website faster. Servers are not all around the world but users are. So how to facilitate it. It reduces the distance between the content providing server and the user by caching a local copy of the static data. Why static content? Coz it doesn't change very frequently.
+Another Good Video by [ByteByteGo](https://youtu.be/RI9np1LWzqw).
 
 ## 4.Why is react known as react?
 
